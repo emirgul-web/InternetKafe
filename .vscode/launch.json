@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "internetkafe.Main",
+            "projectName": "InternetKafe_d998a00"
+        },
+        {
+            "type": "java",
+            "name": "Internet Kafe Yonetim Sistemi",
+            "request": "launch",
+            "mainClass": "internetkafe.Main",
+            "projectName": "InternetKafe",
+            "vmArgs": "-Dfile.encoding=UTF-8"
+        }
+    ]
+}
